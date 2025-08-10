@@ -2,7 +2,8 @@
 I'm Lucas Gabriel, a software developer and 42 São Paulo cadet, passionate about low-level programming and system design. My journey includes projects in C, focusing on performance and clean architecture. I'm always eager to learn and collaborate on innovative solutions.<br><br>☕ Coffee enthusiast | 💻 Code explorer | 🌍 Lifelong learner
 
 ## 📈 Languages & WakaTime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gxsilva)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gxsilva&layout=compact&langs_count=10&theme=shadow_red&title_color=ffffff&text_color=ffffff&border_color=cc1800)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxsilva&hide_progress=false&layout=compact&theme=shadow_red&title_color=ffffff&text_color=ffffff&border_color=cc1800)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-dev/) 
