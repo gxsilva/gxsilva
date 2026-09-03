@@ -56,5 +56,5 @@ Coffee enthusiast, systems programmer, lifelong learner.
 ![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)
 
 <div align="center">
-  <img src="https://github.com/gxsilva/gxsilva/blob/main/fill.jpeg" alt="Banner" width="100%" />
+  <img src="https://github.com/gxsilva/gxsilva/blob/main/background_section.jpeg" alt="Banner" width="100%" />
 </div>
