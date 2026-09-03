@@ -54,3 +54,7 @@ Coffee enthusiast, systems programmer, lifelong learner.
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)
+
+<div align="center">
+  <img src="https://github.com/gxsilva/gxsilva/blob/main/fill.jpeg" alt="Banner" width="100%" />
+</div>
