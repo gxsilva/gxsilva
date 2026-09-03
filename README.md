@@ -1,15 +1,56 @@
-# 🎃 About Me:
-I'm Lucas Gabriel, a software developer and 42 São Paulo cadet, passionate about low-level programming and system design. My journey includes projects in C, focusing on performance and clean architecture. I'm always eager to learn and collaborate on innovative solutions.<br><br>☕ Coffee enthusiast | 💻 Code explorer | 🌍 Lifelong learner
+<div align="center">
+  <img src="https://github.com/gxsilva/gxsilva/blob/main/background_horizontal.jpg" alt="Banner" width="100%" />
+</div>
 
+<div align="center">
 
-## 📈 Languages & WakaTime
-[![Harlok's WakaTime stats](https://github-readme-stats-mu-seven-94.vercel.app/api/wakatime?username=gxsilva&layout=compact&langs_count=10&theme=shadow_red&title_color=ffffff&text_color=ffffff&border_color=cc1800)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats-mu-seven-94.vercel.app/api/top-langs/?username=gxsilva&hide_progress=false&layout=compact&theme=shadow_red&title_color=ffffff&text_color=ffffff&border_color=cc1800)
+# Hey there, I'm Lucas 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-dev/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lssvgabriel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-dev/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lssvgabriel)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gxsilva)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### About Me
+
+Back-end focused software engineer, currently completing my degree at 42 São Paulo.
+
+- Systems programming in C/C++, with focus on performance, memory management and clean architecture
+- Back-end development with TypeScript and NestJS, and Python for data processing and automation
+- Database design and management with PostgreSQL
+- Cloud infrastructure on GCP, including BigQuery for large-scale data processing
+- Experience with layered architectures, containerized environments and CI/CD workflows
+- Built projects including an HTTP/1.1 server with non-blocking I/O and a Unix shell implemented from scratch
+
+Coffee enthusiast, systems programmer, lifelong learner.
+
+</td>
+<td width="40%" align="center">
+<img src="https://github.com/gxsilva/gxsilva/blob/main/bakcground_vertical2.jpeg" alt="Lucas Gabriel" width="100%"/>
+</td>
+</tr>
+</table>
+
+### Tech Stack
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)
