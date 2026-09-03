@@ -18,7 +18,11 @@
 <tr>
 <td width="60%" valign="top">
 
-### About Me
+<div align="center">
+
+###  About Me 
+
+</div>
 
 Back-end focused software engineer, currently completing my degree at 42 São Paulo.
 
